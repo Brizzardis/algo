@@ -1,1 +1,2 @@
-# algo
+Algorithms
+GeekBrains course
